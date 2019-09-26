@@ -1,8 +1,6 @@
 .container {
-    background-color: #00B227;
-    color: #fff;
     margin: 0 auto;
-    width: 60%;
+    width: 50%;
 }
 
 .margin-100 {
@@ -37,7 +35,6 @@
 
 @media (max-width: 530px) {
     .container {
-        background-color:#000; 
         margin: 0 auto;
         width: 95%;
     }
